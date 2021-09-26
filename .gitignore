@@ -1,3 +1,6 @@
+.secrets.json
+build/
+
 # Logs
 logs
 *.log
